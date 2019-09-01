@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "BiographicalTimeline-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"instance"
+	],
+	"name" : "AmChartsParserTest",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "OrderedCollection",
+	"category" : "BiographicalTimeline",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"latLongRectangle"
+	],
+	"name" : "RegionCollection",
+	"type" : "normal"
+}

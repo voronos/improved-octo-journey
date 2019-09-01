@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTMapBuilder",
+	"category" : "BiographicalTimeline",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SvgMapBuilder",
+	"type" : "normal"
+}
